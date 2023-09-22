@@ -14,7 +14,7 @@ wechat数据库decrypted--适用于Linux版本微信，python版本3.7及以上�
 
 
 ## 执行结果截图
-![1.jpg](/img/1.jpg)
+![1.jpg](./img/1.jpg)
 
 
 ## 解密后查看
@@ -32,7 +32,7 @@ wechat数据库decrypted--适用于Linux版本微信，python版本3.7及以上�
 
 
 ## 查看界面截图
-![2.jpg](/img/2.jpg)
+![2.jpg](./img/2.jpg)
 
 
 
@@ -43,3 +43,9 @@ wechat数据库decrypted--适用于Linux版本微信，python版本3.7及以上�
 [PyWxDump](https://github.com/xaoyaoo/PyWxDump/tree/python1.0)
 
 PS：上面用到的chatViewTool和JavaFx均放在utils文件夹中，自取
+
+
+## 免责声明
+本项目严禁用于非法目的，否则自行承担所有相关责任。使用该工具则代表默认同意该条款;
+
+请勿利用本项目的相关技术从事非法测试，如因此产生的一切不良后果与项目作者无关。

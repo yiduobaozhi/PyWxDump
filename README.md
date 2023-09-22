@@ -14,7 +14,7 @@ wechat数据库decrypted--适用于Linux版本微信，python版本3.7及以上�
 
 
 ## 执行结果截图
-![1.jpg](img%2F1.jpg)
+![1.jpg](/img/1.jpg)
 
 
 ## 解密后查看
@@ -32,7 +32,7 @@ wechat数据库decrypted--适用于Linux版本微信，python版本3.7及以上�
 
 
 ## 查看界面截图
-![2.jpg](img%2F2.jpg)
+![2.jpg](/img/2.jpg)
 
 
 
